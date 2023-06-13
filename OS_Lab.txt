@@ -1,0 +1,7 @@
+PN	|	AT	|	BT	|	WT	|	TAT
+1	|	1	|	2	|	0	|	2
+3	|	1	|	4	|	2	|	6
+2	|	1	|	5	|	6	|	11
+
+Average Waiting Time: 2.6666667
+Average Turnaround Time: 6.3333335
